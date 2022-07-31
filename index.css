@@ -1,0 +1,99 @@
+.block-one {
+    position: relative;
+    margin-top:20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 95%;
+    border: 5px solid black;
+    display: flex;
+    justify-content: flex-start;
+}
+.purple-rectangle{
+    position: relative;
+    height:70%;
+    width:5%;
+    background-color: purple;
+    margin-top: 50px;
+    margin-left: 1%;
+}
+.green-rectangle{
+    position: relative;
+    height: 90%;
+    width: 40%;
+    background-color: green;
+    margin-top: 10px;
+    margin-left: 5%;
+}
+.blue-circle{
+    position: relative;
+    height: 90%;
+    width: 10%;
+    border-radius: 50%;
+    background-color: rgb(0, 217, 255);
+    margin-top: 10px;
+    margin-left: 5%;
+
+}
+
+/* Block two */
+.block-two{
+    position: relative;
+    margin-top:20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 95%;
+    border: 5px dotted black;
+    display: flex;
+    justify-content: flex-start;
+}
+.beige-box {
+    position: relative;
+    height: 80%;
+    width: 90%;
+    background-color: beige;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.725);
+}
+.final-box{
+    position: relative;
+    margin-top:20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 60%;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.725);
+    display: block;
+    /* justify-content: center; */
+}
+.hello-friends{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    position: relative;
+    padding: 100px 0;
+    text-align: center;
+    font-size: 50px;
+    color: navy;
+}
+/* .hello-f{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    position: relative;
+    /* padding: 70px 0; */
+/* }*/
+/* .hello-f, .hello-p{
+    font-size: 100px;
+    text-align: center;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+} */
